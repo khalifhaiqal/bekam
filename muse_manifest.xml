@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bekam.rmall.id" resolutions="1x" timestamp="1600061985723">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bekam.rmall.id" resolutions="1x" timestamp="1600062453342">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4143798609" ref="index"/>
+    <file name="master_a-master.css" crc="3920555992" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4145592264" ref="index"/>
-    <file name="nomq_index.css" crc="255314595" ref="index"/>
+    <file name="index.css" crc="4010244483" ref="index"/>
+    <file name="nomq_index.css" crc="4176807832" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -123,5 +123,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="512594807" seo="true" mt="1600061962822" redirect="true"/>
+  <file name="index.html" crc="4277550896" seo="true" mt="1600062404149" redirect="true"/>
 </manifest>
